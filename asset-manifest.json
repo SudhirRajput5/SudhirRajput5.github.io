@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.40acb27c.css",
+    "main.js": "/static/js/main.b169e31a.js",
+    "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.be1987ed.chunk.js": "/static/js/769.be1987ed.chunk.js",
+    "static/media/aw2.png": "/static/media/aw2.739b8bf6521ec8e74db1.png",
+    "static/media/University_of_Washington_logo.png": "/static/media/University_of_Washington_logo.099c0a98c5b9e221bd1d.png",
+    "static/media/aw1.png": "/static/media/aw1.30df937230017782e561.png",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/PathWise.jpg": "/static/media/PathWise.b4eabd1c15cda4284329.jpg",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/RVCE_Logo.png": "/static/media/RVCE_Logo.7c3dd3a6e6677b8c61cb.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/nttdata.png": "/static/media/nttdata.ca0784664f6bd2f00499.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/hkbk_logo.png": "/static/media/hkbk_logo.2ed8d7bca4c6334c5000.png",
+    "static/media/kafka_project.png": "/static/media/kafka_project.201d8517fb4953045202.png",
+    "index.html": "/index.html",
+    "main.40acb27c.css.map": "/static/css/main.40acb27c.css.map",
+    "main.b169e31a.js.map": "/static/js/main.b169e31a.js.map",
+    "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
+    "769.be1987ed.chunk.js.map": "/static/js/769.be1987ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40acb27c.css",
+    "static/js/main.b169e31a.js"
+  ]
+}
